@@ -48,6 +48,45 @@ Menu simples via terminal
 ```sh
 javac *.java
 
+css
+Copiar
+Editar
+LocadoraCarros.zip
+├── src/
+│   ├── Main.java
+│   ├── Menu.java
+│   ├── Locadora.java
+│   ├── Carro.java
+│   ├── Marca.java
+│   ├── Modelo.java
+│   ├── Cliente.java
+│   ├── Reserva.java
+│   └── SituacaoVeiculo.java
+└── README.md (opcional)
+
+1. Compile todos os arquivos:
+```bash
+javac src/*.java
+Execute o programa:
+
+bash
+Copiar
+Editar
+java -cp src Main
+Estrutura
+Main.java: ponto de entrada
+
+Menu.java: menu interativo
+
+Locadora.java: lógica de negócio
+
+Carro.java, Marca.java, etc.: entidades
+
+yaml
+Copiar
+Editar
+
+
  
 
  Participantes   
