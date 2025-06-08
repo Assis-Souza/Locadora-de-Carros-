@@ -38,19 +38,15 @@ Menu simples via terminal
 
  
 
-README.md com instruções de compilação e execução : 
+## Como rodar o projeto
 
-Como rodar o projeto 
+1. Certifique-se de ter o Java instalado (versão 11 ou superior).
+2. Clone ou baixe o projeto.
+3. Abra o terminal na pasta onde estão os arquivos .java.
+4. Compile com:
 
-Certifique-se de ter o Java instalado (versão 11 ou superior). 
-
-Clone ou baixe o projeto. 
-
-Abra o terminal na pasta onde estão os arquivos .java. 
-
-Compile com: 
-
-```sh javac *.java 
+```sh
+javac *.java
 
  
 
