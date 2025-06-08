@@ -52,17 +52,17 @@ css
 Copiar
 Editar
 LocadoraCarros.zip
-├── src/
-│   ├── Main.java
-│   ├── Menu.java
-│   ├── Locadora.java
-│   ├── Carro.java
-│   ├── Marca.java
-│   ├── Modelo.java
-│   ├── Cliente.java
-│   ├── Reserva.java
-│   └── SituacaoVeiculo.java
-└── README.md (opcional)
+src/
+Main.java
+Menu.java
+Locadora.java
+Carro.java
+Marca.java
+Modelo.java
+Cliente.java
+Reserva.java
+SituacaoVeiculo.java
+README.md (opcional)
 
 1. Compile todos os arquivos:
 ```bash
